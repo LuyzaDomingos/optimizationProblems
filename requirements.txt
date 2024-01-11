@@ -1,0 +1,4 @@
+cffi==1.15.1
+mip==1.15.0
+numpy==1.26.3
+pycparser==2.21
